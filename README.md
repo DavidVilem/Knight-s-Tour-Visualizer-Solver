@@ -101,7 +101,7 @@ Esta clase se encarga de la visualización del recorrido utilizando **Pygame**. 
 ### Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/knights-tour.git
+   git clone https://github.com/DavidVilem/Knight-s-Tour-Visualizer-Solver.git
    cd knights-tour
    ```
 2. Instala las dependencias:
