@@ -15,7 +15,6 @@ Este proyecto implementa el clásico problema del **recorrido del caballo** (Kni
 - [Instrucciones de Uso](#instrucciones-de-uso)
 - [Intervención Reciente y Mejoras](#intervención-reciente-y-mejoras)
 - [Referencias](#referencias)
-- [Licencia](#licencia)
 
 ---
 
